@@ -27,4 +27,4 @@ Atualmente estou trabalhando em meu portfólio, e estudando habilidades para fro
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcomac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  
+  ![Snake animation](https://github.com/{{arthurcomac}}/{{arthurcomac}}/blob/output/github-contribution-grid-snake.svg)
