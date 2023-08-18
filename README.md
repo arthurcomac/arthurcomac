@@ -3,16 +3,16 @@
 ## Meu nome é *Arthur Machado!*
 <sup> My name is *Arthur Machado!* </sup>
 
-Atualmente estou trabalhando em meu portfólio, e estudando habilidades para frontend, como...<br>
-  <sup>I'm currently working on my portfolio, and studying frontend skills like...</sup><br>
+Atualmente estou estudando engenharia de software e trabalhando em meu portfólio, e estudando habilidades para frontend, como...<br>
+  <sup>I'm study software engine and currently working on my portfolio, and studying frontend skills like...</sup><br>
       React<br>
       Javascript<br>
       Html<br>
       Css<br>
       Typescript<br>
       entre outras tecnologias.<br><br>
-    fique avontade para me enviar o que achar necessario pelo email <email>contatodesenvolvedorarthur@gmail.com</email><br>
-    <sup>feel free to send me what you think is necessary by email <email>contatodesenvolvedorarthur@gmail.com</email></sup><br>
+    fique avontade para me enviar o que achar necessario pelo email <email>arthurcomac32@gmail.com</email><br>
+    <sup>feel free to send me what you think is necessary by email <email>arthurcomac32@gmail.com</email></sup><br>
     você pode me aconpanhar em minhas redes também<br>
     <sup>you can join me on my networks too<sup>
     
